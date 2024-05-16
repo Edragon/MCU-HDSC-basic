@@ -2,11 +2,11 @@
 <SystemConfig>
   <EnglishLanguage>false</EnglishLanguage>
   <TargetMCU>
-    <Index>5</Index>
+    <Index>4</Index>
   </TargetMCU>
   <CrystalIndex>0</CrystalIndex>
-  <HexFile>E:\HE\Desktop\111.hex</HexFile>
-  <Com>COM212</Com>
+  <HexFile>E:\Git-category\git-MCU-HDSC\MCU-HDSC-APP\APP\I2C-AHT20\MDK\output\AHT20.hex</HexFile>
+  <Com>COM2</Com>
   <AutoNumber>
     <AutoNumberSelected>false</AutoNumberSelected>
     <AotuNumberStartAddr></AotuNumberStartAddr>
